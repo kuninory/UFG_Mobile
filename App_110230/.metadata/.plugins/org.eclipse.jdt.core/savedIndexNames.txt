@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\Users\Felipe\Documents\GitHub\UFG_Mobile_110230\App_110230\.metadata\.plugins\org.eclipse.jdt.core
+3072622711.index
+1284074322.index
+1499205485.index
+2463729570.index
